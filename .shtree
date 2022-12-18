@@ -1,0 +1,45 @@
+commit 9dd18ea (HEAD -> main, origin/main, origin/HEAD)
+Merge: 95c4d0c 353c27d
+Author: Prof-Palitto <94290557+Prof-Palitto@users.noreply.github.com>
+Date:   4 weeks ago
+
+    Merge pull request #1 from Prof-Palitto/Esercizio3
+    
+    esempio di Pull Request
+
+commit 353c27d (origin/Esercizio3)
+Author: Prof-Palitto <94290557+Prof-Palitto@users.noreply.github.com>
+Date:   4 weeks ago
+
+    Update README.md
+
+commit 77c9619
+Author: Prof-Palitto <94290557+Prof-Palitto@users.noreply.github.com>
+Date:   4 weeks ago
+
+    Update README.md
+
+commit 95c4d0c
+Author: Prof-Palitto <94290557+Prof-Palitto@users.noreply.github.com>
+Date:   4 weeks ago
+
+    Update File2.txt
+
+commit cb08480
+Author: Prof-Palitto <94290557+Prof-Palitto@users.noreply.github.com>
+Date:   4 weeks ago
+
+    Create File2.txt
+
+commit d386f4a
+Author: Prof-Palitto <94290557+Prof-Palitto@users.noreply.github.com>
+Date:   4 weeks ago
+
+    inserito pridu righe
+
+commit 9ddd73b
+Author: Prof-Palitto <94290557+Prof-Palitto@users.noreply.github.com>
+Date:   4 weeks ago
+
+    Initial commit
+/home/runner/Esercizio-Classe-4B
